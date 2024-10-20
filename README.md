@@ -1,5 +1,4 @@
-# Привет, я [mirita] 👋
-
+# Привет, я mirita 👋
 ![Аниме](https://i.pinimg.com/originals/5c/d8/fb/5cd8fb1abdd778bd6c22bf68fbfa1dc5.jpg)
 
 ## 🛠 Навыки
