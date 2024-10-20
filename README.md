@@ -7,7 +7,7 @@
 - 📊 jQuery
 - 🗄️ SQL
 - 🐬 MySQL
-![Описание GIF](img/cry.gif)
+- ![Описание GIF](img/cry.gif)
 ## 🌍 Связаться со мной
 - [VK](https://vk.com/meeymirita)
 - [Telegram](https://t.me/meeymirita)
