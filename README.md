@@ -7,7 +7,6 @@
 ## 🛠️ Мои навыки
 
 <div align="center">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://github.com/devicons/devicon/raw/v2.16.0/icons/laravel/laravel-plain-wordmark.svg)" title="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" width="40" height="40"/>&nbsp;
