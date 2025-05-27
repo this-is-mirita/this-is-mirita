@@ -1,11 +1,7 @@
 # Привет👋
-
-# Привет👋
-
-![имг](https://wallpaper.forfun.com/fetch/a7/a7b9f30cb3104da942a8c24f0b7609eb.jpeg)
-
 ---
 
+![имг](https://wallpaper.forfun.com/fetch/a7/a7b9f30cb3104da942a8c24f0b7609eb.jpeg)
 
 ---
 
