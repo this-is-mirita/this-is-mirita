@@ -1,31 +1,38 @@
-# Привет 👋  
+<h1 align="center">Привет 👋, я Meeymirita!</h1>
+
+<p align="center">
+  <img src="https://wallpaper.forfun.com/fetch/a7/a7b9f30cb3104da942a8c24f0b7609eb.jpeg" width="100%" alt="Banner" />
+</p>
+
 ---
 
-![имг](https://wallpaper.forfun.com/fetch/a7/a7b9f30cb3104da942a8c24f0b7609eb.jpeg)
+## 🧠 Обо мне
+
+💻 Я — начинающий веб-разработчик и увлечён изучением современных технологий:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,vue,nuxt,php,laravel,docker" alt="Tech stack" />
+</div>
+
+- 📦 **JavaScript** и **Vue.js** — создаю динамичные интерфейсы  
+- ⚡ **Nuxt** — погружаюсь в SSR и SPA  
+- 🐳 **Docker** — учусь удобно разворачивать приложения  
+- 🐘 **PHP** и **Laravel** — осваиваю мощный бэкенд-фреймворк  
+
+🧩 Постоянно развиваюсь и двигаюсь вперёд, прокачивая навыки каждый день 🚀
 
 ---
 
-## 🧠 Немного обо мне
+## 🎓 Курсы, которые рекомендую:
 
-Я активно развиваюсь в сфере веб-разработки и изучаю современные технологии:
+> Эти курсы я лично прошёл и могу рекомендовать:
 
-- 📦 **JavaScript** & **Vue.js** — люблю динамичные интерфейсы  
-- ⚡ **Nuxt** — изучаю SSR и SPA-подходы  
-- 🐳 **Docker** — осваиваю контейнеризацию  
-- 🐘 **PHP** & **Laravel** — учусь создавать мощный бэкенд
+- 📘 [Основы JavaScript](https://purpleschool.ru/course/javascript-basics?utm_source=ref&utm_campaign=ref&referralId=446)  
+- 📗 [Продвинутый JavaScript](https://purpleschool.ru/course/javascript-advanced?utm_source=ref&utm_campaign=ref&referralId=446)  
+- 💚 [Vue 3 и Pinia](https://purpleschool.ru/course/vuejs?utm_source=ref&utm_campaign=ref&referralId=446)  
+- 🌀 [Nuxt - fullstack Vue фреймворк](https://purpleschool.ru/course/nuxt?utm_source=ref&utm_campaign=ref&referralId=446)  
+- 🧱 [Feature-Sliced Design (FSD)](https://purpleschool.ru/course/fsd?utm_source=ref&utm_campaign=ref&referralId=446)  
 
-Стараюсь каждый день прокачивать свои навыки и двигаться вперёд 🚀
-
-Так же рекомендую курсы которые прошел лично 
-Основы JavaScript и Продвинутый JavaScript
-https://purpleschool.ru/course/javascript-basics?utm_source=ref&utm_campaign=ref&referralId=446
-https://purpleschool.ru/course/javascript-advanced?utm_source=ref&utm_campaign=ref&referralId=446
-Vue 3 и Pinia
-https://purpleschool.ru/course/vuejs?utm_source=ref&utm_campaign=ref&referralId=446
-Nuxt - fullstack Vue фреймворк
-https://purpleschool.ru/course/nuxt?utm_source=ref&utm_campaign=ref&referralId=446
-Feature-Sliced Design
-https://purpleschool.ru/course/fsd?utm_source=ref&utm_campaign=ref&referralId=446
 ---
 
 ## 📬 Связаться со мной
@@ -38,5 +45,20 @@ https://purpleschool.ru/course/fsd?utm_source=ref&utm_campaign=ref&referralId=44
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
+
+---
+
+## 🌟 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meeymirita&show_icons=true&theme=radical&hide=issues&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meeymirita&layout=compact&theme=radical" />
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> "Код — это поэзия, если ты знаешь, как его писать красиво." 🎯
 
 ---
