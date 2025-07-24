@@ -51,15 +51,6 @@
 
 ---
 
-## 🌟 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meeymirita&show_icons=true&theme=radical&hide=issues&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meeymirita&layout=compact&theme=radical" />
-</div>
-
----
-
 ## ⚡ Fun Fact
 
 > _"Код — это поэзия, если ты знаешь, как его писать красиво."_ 🎯
