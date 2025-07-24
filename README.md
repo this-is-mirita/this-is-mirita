@@ -16,6 +16,16 @@
 
 Стараюсь каждый день прокачивать свои навыки и двигаться вперёд 🚀
 
+Так же рекомендую курсы которые прошел лично 
+Основы JavaScript и Продвинутый JavaScript
+https://purpleschool.ru/course/javascript-basics?utm_source=ref&utm_campaign=ref&referralId=446
+https://purpleschool.ru/course/javascript-advanced?utm_source=ref&utm_campaign=ref&referralId=446
+Vue 3 и Pinia
+https://purpleschool.ru/course/vuejs?utm_source=ref&utm_campaign=ref&referralId=446
+Nuxt - fullstack Vue фреймворк
+https://purpleschool.ru/course/nuxt?utm_source=ref&utm_campaign=ref&referralId=446
+Feature-Sliced Design
+https://purpleschool.ru/course/fsd?utm_source=ref&utm_campaign=ref&referralId=446
 ---
 
 ## 📬 Связаться со мной
